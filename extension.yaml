@@ -1,0 +1,8 @@
+Name: Multiplayer Exporter
+Author: dbuteau
+Version: 1.0
+Module: exporter.py
+Type: Script
+Functions: 
+    - Description: Export Multiplayer Games
+      FunctionName: MultiplayerExport
