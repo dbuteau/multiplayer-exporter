@@ -9,9 +9,9 @@ In `Extensions` folder create a `MultiExporter` folder and copy files into it
 
 # How to use
 Click on the Pad Icon, in the displayed menu:  
-* if your playnite was already launch before your Extension installation
+* if your playnite was already launch before your Extension installation  
 go into `Extensions > Refresh scripts`
-* Then
+* Then  
 go into `Extensions > Export Multiplayer Games`
 
 # References:
