@@ -1,8 +1,6 @@
+﻿Id: MultiplayerExporterPS
 Name: Multiplayer Exporter
-Author: dbuteau
-Version: 1.0
-Module: exporter.py
+Author: dbuteau, LaserKaspar
+Version: 1.1
+Module: MultiplayerExporter.ps1
 Type: Script
-Functions: 
-    - Description: Export Multiplayer Games
-      FunctionName: MultiplayerExport

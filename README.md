@@ -17,4 +17,4 @@ go into `Extensions > Export Multiplayer Games`
 # References:
 - **Playnite**: https://playnite.link
 - **Playnite API**: https://playnite.link/docs/api/
-- **Source** : https://github.com/dbuteau/multiplayer-exporter/
+- **Source** : https://github.com/LaserKaspar/multiplayer-exporter/
