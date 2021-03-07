@@ -24,7 +24,7 @@ def MultiplayerExport():
                     end_of_file = ""
                 text_file.write("{0};{1}{2}".format(game_row['name'], game_row['activity'], end_of_file))
                 incr += 1
-        PlayniteApi.Dialogs.ShowMessage("{0} exported in file:\n{1}\\Multiplayer_Games.txt".format(len(games_list), os.path.abspath(os.getcwd())))
+        PlayniteApi.Dialogs.ShowMessage("{0} exported in file:\n{1}\\Multiplayer_Games.csv".format(len(games_list), os.path.abspath(os.getcwd())))
     except Exception as err:
         exc_type, exc_obj, exc_tb = sys.exc_info()
         PlayniteApi.Dialogs.ShowErrorMessage(str("line %s: %s\n%s" % (exc_tb.tb_lineno, game.name, err)), 'Error')
