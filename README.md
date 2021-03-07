@@ -1,7 +1,6 @@
 # Playnite Multi-Exporter
 ![Playnite-v8.11 compatible](https://img.shields.io/badge/Playnite-v8.11%20tested-success)  
 Automaticly export all your multiplayer games list to csv file.  
-Can be used for importing your games list into the discord bot [Games Matcher](https://github.com/dbuteau/games-matcher)
 
 # Install
 Go to your playnite installation. (%USERPROFILE%\AppData\Local\Playnite)  
